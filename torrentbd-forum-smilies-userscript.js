@@ -1,12 +1,16 @@
 // ==UserScript==
 // @name         TorrentBD Forum Smilies
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Shoutbox emoji/smilies in forum reply
 // @author       Khaled
-// @match        https://www.torrentbd.net/forums.php*
+// @match        https://*.torrentbd.com/forums.php*
+// @match        https://*.torrentbd.org/forums.php*
+// @match        https://*.torrentbd.net/forums.php*
+// @match        https://*.torrentbd.me/forums.php*
 // @icon         https://www.torrentbd.net/themes/material/static/favicon/favicon-32x32.png
 // @grant        none
+// @license      GPL-3.0
 // @run-at document-end
 // ==/UserScript==
 
